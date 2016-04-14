@@ -1,11 +1,10 @@
 {
-  "name": "imagex-srcset",
-  "version": "0.0.1",
+  "name": "imagex.srcset.js",
+  "version": "0.0.2",
   "description": "Image srcset polyfill",
   "main": "imagex.srcset.js",
   "scripts": {},
   "author": "ELITEX",
-  "license": "ISC",
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-jshint": "^2.0.0",

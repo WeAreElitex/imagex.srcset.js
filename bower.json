@@ -1,0 +1,25 @@
+{
+  "name": "imagex.srcset.ja",
+  "description": "Image srcset polyfill",
+  "main": [
+    "imagex.srcset.js"
+  ],
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "imagex",
+    "image",
+    "srcset",
+    "responsive"
+  ],
+  "authors": [
+    "Elitex"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:WeAreElitex/imagex.srcset.js.git"
+  }
+}
