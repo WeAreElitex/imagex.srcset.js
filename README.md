@@ -5,6 +5,9 @@ The script create srcset or update the src attribute in an img tag (or the backg
 
 ### Getting started with imagex srcset
 
+#### Install via bower
+`$ bower install imagex.srcset.js --save`
+
 include script and run imagexSrcset when page was loaded.
 
 By default imagexSrcset runs for all elements with the `data-srcset-id` attribute.
